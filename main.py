@@ -3,6 +3,15 @@ print('Eliza')
 print('Eliza')
 print('Eliza')
 
+print('Eliza')
+print('Eliza')
+print('Eliza')
+
+print('Eliza')
+print('Eliza')
+print('Eliza')
+
+
 
 
 
